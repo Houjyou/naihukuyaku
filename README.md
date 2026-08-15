@@ -1,5 +1,3 @@
-# 院内医薬品集（内服薬）
-<!DOCTYPE html>
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
